@@ -4,7 +4,7 @@ This document outlines the design specifications for a high-resolution, interact
 
 ---
 
-![Achieving Interactive 3D Periodic Table](1.png)
+![Achieving Interactive 3D Periodic Table](public/1.png)
 
 ## Design Overview
 
@@ -36,7 +36,7 @@ When users hover over a tile, the following detailed information will be display
 
 ---
 
-![Atomic Structure Elements](2.png)
+![Atomic Structure Elements](public/2.png)
 
 ## Layout
 
