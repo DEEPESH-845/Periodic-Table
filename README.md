@@ -12,13 +12,13 @@ concepts but also equips teachers with a powerful tool to facilitate understandi
 
 ## Key Innovative Features
 
-• Interactive Hover Information: Users can hover over elements to access detailed
+-  **Interactive Hover Information:** Users can hover over elements to access detailed
 information, enhancing engagement and understanding.
-• Filtering Options: The ability to filter elements by properties (e.g., metals, non-metals)
+-  **Filtering Options:** The ability to filter elements by properties (e.g., metals, non-metals)
 allows for targeted learning and exploration.
-• 3D Visualization: The use of Three.js provides a dynamic 3D representation of the
+- **3D Visualization:** The use of Three.js provides a dynamic 3D representation of the
 periodic table, making learning more visually appealing.
-• Responsive Design: The project is designed to be accessible on various devices,
+- **Responsive Design:** The project is designed to be accessible on various devices,
 ensuring that students and teachers can use it anywhere.
 
 
@@ -32,10 +32,6 @@ ensuring that students and teachers can use it anywhere.
 - **3D Rendering:** Utilize three.js technologies for rendering the 3D tiles.
 - **Responsive Design:** The visualization should be adaptable to various screen sizes, ensuring accessibility on both desktop and mobile devices.
 - **Integration:** The visualization will be designed for easy integration into web applications, for seamless user experience.
-• **User Interaction:** JavaScript event listeners handle hover effects and filtering
-functionalities, creating a seamless user experience.
-• **Deployment:** The project is hosted on a web server, making it accessible to users via a
-web browser.
 
 ![Technical Architecture](public/5.png)
 
